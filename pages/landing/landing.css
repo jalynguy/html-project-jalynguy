@@ -13,7 +13,7 @@ main{
 }
 .main-content{
     height: 75%;
-    width: 75%;
+    width: inherit;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -21,7 +21,6 @@ main{
 }
 
 .landing-img{
-    margin-top: 50px;
     width: inherit;
     height: inherit;
 }

@@ -1,0 +1,15 @@
+.title{
+    text-align: center;
+}
+
+/* Card Styles */ 
+.card{
+    margin-top: 50px;
+}
+
+.selfie{
+    max-width: 40rem;
+    max-height: 40rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}

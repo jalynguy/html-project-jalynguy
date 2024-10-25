@@ -7,6 +7,10 @@
     font-family: "quotefont";
     src: url("assets/fonts/quotefont.ttf");
 }
+/* Global Styling */ 
+body{
+    background-color: beige;
+}
 
 /* Nav Bar Styling */
 .navbar-brand{
