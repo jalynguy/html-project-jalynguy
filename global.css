@@ -1,3 +1,14 @@
+/* Custom Font */
+@font-face {
+    font-family: "cyberpunkfont";
+    src: url("assets/fonts/cyberpunkfont.otf");
+}
+@font-face {
+    font-family: "quotefont";
+    src: url("assets/fonts/quotefont.ttf");
+}
+
+/* Nav Bar Styling */
 .navbar-brand{
     color: white;
 }
